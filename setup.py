@@ -8,7 +8,7 @@ setup(
   author = 'Yashmin Singla',                
   author_email = 'ysingla_be19@thapar.edu',      
   url = 'https://github.com/yashmin-singla/Topsis_Yashmin_101903272',   
-  download_url = '',    
+  download_url = 'https://github.com/yashmin-singla/Topsis_Yashmin_101903272/archive/refs/tags/version.tar.gz',    
   keywords = ['topsis','topsis score','rank','Thapar'],
   install_requires=['numpy','pandas' ],
   classifiers=[
